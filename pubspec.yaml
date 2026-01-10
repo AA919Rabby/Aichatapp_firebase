@@ -1,0 +1,40 @@
+name: ai_chatbot
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  # Flutter versions
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # State Management
+  get: ^4.6.6
+
+  # Firebase
+  firebase_core: ^2.24.3
+  firebase_auth: ^4.16.1
+  cloud_firestore: ^4.17.5
+  google_sign_in: ^6.1.6
+
+  # Networking
+  http: ^1.1.0
+  # package for the Gemini API
+  google_generative_ai: ^0.4.0
+
+  # Date & Time Formatting
+  intl: ^0.19.0
+  # Icons
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
