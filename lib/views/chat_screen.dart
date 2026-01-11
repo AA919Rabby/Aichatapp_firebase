@@ -106,7 +106,7 @@ class ChatScreen extends StatelessWidget {
             child: RefreshIndicator(
               onRefresh: chatController.refreshData,
               child: Obx(() => ListView.builder(
-                physics: const AlwaysScrollableScrollPhysics(),
+               physics: const AlwaysScrollableScrollPhysics(),
                 padding: const EdgeInsets.all(15),
                 itemCount: chatController.messages.length,
                 itemBuilder: (context, index) {

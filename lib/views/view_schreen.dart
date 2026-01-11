@@ -1,4 +1,5 @@
 import 'dart:async';
+import 'package:ai_chatbot/controllers/auth_controller.dart';
 import 'package:ai_chatbot/views/login_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
@@ -15,7 +16,7 @@ class _ViewScreenState extends State<ViewScreen> {
   void initState() {
     super.initState();
     Timer(const Duration(seconds: 3), () {
-      Get.offAll(() => LoginScreen());
+      Get.put(AuthController());
     });
   }
 

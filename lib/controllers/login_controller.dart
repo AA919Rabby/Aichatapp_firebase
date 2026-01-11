@@ -9,9 +9,9 @@ class LoginController extends GetxController {
   Future<void> handleGoogleSignIn() async {
     isLoading.value = true;
     try {
-      // Configuration for Google Sign In
+      //  Google Sign In
       final GoogleSignIn googleSignIn = GoogleSignIn(
-        serverClientId: "956533700482-7ouqgh6v1n7lamb8dr33ndcklfudss43.apps.googleusercontent.com",
+        serverClientId: 'Enter server client id',
       );
 
       final GoogleSignInAccount? googleUser = await googleSignIn.signIn();
