@@ -36,7 +36,7 @@ Chat with an AI bot and get real-time responses.
 
 
 
-Chat with AI in real-time
+Chat with AI in real-time powered by Google generative Ai
 
 User authentication with Firebase (Google sign-in)
 
