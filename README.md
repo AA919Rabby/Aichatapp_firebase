@@ -1,16 +1,51 @@
-# ai_chatbot
+AI Chat App
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+A simple Flutter AI Chat App built using GetX and Firebase.
+Chat with an AI bot and get real-time responses.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features
+
+
+
+
+Chat with AI in real-time
+
+User authentication with Firebase (Google sign-in)
+
+Save chat history locally or on Firebase
+
+Responsive UI using GetX for state management
+
+Firebase integration for secure and scalable backend
+
+
+
+
+Technology Used
+
+
+
+
+Flutter – For UI/UX design
+
+GetX – State management & routing
+
+Firebase – Authentication, Firestore database
+
+Google Sign-In – Easy login with Google
+
+
+
+
+
+
+Download APK
+
+
+
+
+You can download the app here: https://drive.google.com/file/d/1XAu4617_FbHCyQ-MiS0FmWxSIHeF_0vV/view?usp=drive_link
