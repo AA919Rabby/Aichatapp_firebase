@@ -100,6 +100,36 @@ Google Sign-In – Easy login with Google
 
 
 
+[Loading schreen](Screenshot_20260113_203011.jpg)
+
+
+
+
+
+
+[Google sign in](retouch_2026011320533999.jpg)
+
+
+
+
+
+
+[Chat schreen](Screenshot_20260113_203052.jpg)
+
+
+
+
+
+[New chat & chat history](Screenshot_20260113_203112.jpg)
+
+
+
+
+
+
+
+
+
 
 
 
