@@ -1,4 +1,4 @@
-1.# AI Chat App
+# AI Chat App
 
 
 
@@ -24,7 +24,7 @@ Chat with an AI bot and get real-time responses.
 
 
 
-2.Features
+# Features
 
 
 
@@ -55,7 +55,7 @@ Firebase integration for secure and scalable backend
 
 
 
-3.Technology Used
+# Technology Used
 
 
 
@@ -91,7 +91,7 @@ Google Sign-In – Easy login with Google
 
 
 
-4.Schreenshots
+# Schreenshots
 
 
 
@@ -128,7 +128,7 @@ Google Sign-In – Easy login with Google
 
 
 
-4.Video
+# Video
 
 
 
@@ -143,7 +143,7 @@ Demo Video  https://youtube.com/shorts/g3djdy0wz6g?si=_9wBo8AiGQbMTu9q
 
 
 
-5.Download APK
+# Download APK
 
 
 
