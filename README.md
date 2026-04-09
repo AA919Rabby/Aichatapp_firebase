@@ -22,14 +22,12 @@ Firebase – Authentication, Firestore database
 
 Google Sign-In – Easy login with Google
 
-# Schreenshots
-<img src="Screenshot_20260113_203011.jpg" alt="Loading schreen" width="300"/>
+# Screenshots
 
-<img src="retouch_2026011320533999.jpg" alt="Google sign in" width="300"/>
-
-<img src="Screenshot_20260113_203052.jpg" alt="Chat schreen" width="300"/>
-
-<img src="Screenshot_20260113_203112.jpg" alt="New chat & chat history" width="300"/>
+| | |
+| :---: | :---: |
+| <img src="Screenshot_20260113_203011.jpg" alt="Loading screen" width="300"/> | <img src="retouch_2026011320533999.jpg" alt="Google sign in" width="300"/> |
+| <img src="Screenshot_20260113_203052.jpg" alt="Chat screen" width="300"/> | <img src="Screenshot_20260113_203112.jpg" alt="New chat & chat history" width="300"/> |
 
 # Video
 Demo Video  https://youtube.com/shorts/g3djdy0wz6g?si=_9wBo8AiGQbMTu9q
